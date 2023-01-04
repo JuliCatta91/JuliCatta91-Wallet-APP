@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{ /*Variables de colores*/
+    --dispo: #7FBC7B;
+    --noDispo: #F36A71;
+    --viole: #5923A9;
+    --fondo: #F1F1F1;
+}
+
+.barraNav{
+    background-color: white;
+}
+body{
+    background-color: var(--fondo);
+}
